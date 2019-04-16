@@ -1,2 +1,4 @@
 User-agent: *
-Disallow: /ICO
+Disallow: /favicon.ico
+
+Sitemap： https://huayuzhiai.github.io/Sitemap.xml
